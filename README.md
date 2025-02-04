@@ -94,11 +94,10 @@ If you encounter performance issues, consider reducing the image size (imgsz) or
 Ensure the paths in the data.yaml file are correctly set to the locations of the dataset 🔗.
 
 
-![images (21)](https://github.com/user-attachments/assets/e1ef96ad-f220-4d1a-b642-109705eea997)
+![images (21)](https://github.com/user-attachments/assets/e1ef96ad-f220-4d1a-b642-109705eea997)    ![download (20)](https://github.com/user-attachments/assets/43aff9e7-0fe7-4264-8cf7-dfd1f0af044e)  ![download (14)](https://github.com/user-attachments/assets/56a054f1-8cea-496f-87a8-c0a564b29c9a)
 
-![download (20)](https://github.com/user-attachments/assets/43aff9e7-0fe7-4264-8cf7-dfd1f0af044e)
 
-![download (14)](https://github.com/user-attachments/assets/56a054f1-8cea-496f-87a8-c0a564b29c9a)
+
 ![val_batch2_pred](https://github.com/user-attachments/assets/2e047a00-c249-414c-9671-6bc38300cbf4)
 
 
