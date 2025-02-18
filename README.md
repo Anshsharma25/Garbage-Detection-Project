@@ -44,7 +44,7 @@ val/labels/: Contains the corresponding annotation files for validation images �
 Create a data.yaml file to define the dataset configuration, including paths to images and the class names.
 
 # Example data.yaml:
-
+~~~
 train: dataset/train/images  
 val: dataset/val/images  
 nc: 2  
@@ -53,6 +53,7 @@ train: Path to the training images
 val: Path to the validation images
 nc: Number of classes (2 in this case)
 names: List of class names
+~~~
 
 # 🏋️‍♂️ Training the Model
 To train the YOLOv8m model, follow these steps:
