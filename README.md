@@ -72,9 +72,10 @@ To run inference on new images or videos:
 
 Inference Script:
 Run the following command to perform inference on a single image or video file:
-
+~~~
 python inference.py --weights runs/train/exp/weights/best.pt --source <image_path_or_video>  
 Replace <image_path_or_video> with the path to the image or video for inference 🎥.
+~~~
 View Results:
 The results (i.e., detected objects with bounding boxes) will be saved in the runs/detect/exp folder by default 🖼️.
 # 📊 Evaluation
