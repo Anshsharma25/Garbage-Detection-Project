@@ -1,6 +1,6 @@
 # 🚀 YOLOv8m Custom Dataset: Garbage Detection 🌍
 📚 Overview
-This repository contains the implementation of an object detection model using YOLOv8m for classifying objects as "garbage" or "not garbage." The model is trained on a custom dataset and utilizes the latest advancements in deep learning to efficiently detect and classify garbage-related objects.
+This repository contains the implementation of an object detection model using YOLOv8m for classifying objects as "garbage". The model is trained on a custom dataset and utilizes the latest advancements in deep learning to efficiently detect and classify garbage-related objects.
 
 # 🛠 Project Setup
 📋 Prerequisites
