@@ -35,6 +35,7 @@ dataset/
 │   ├── labels/
 ~~~
 
+
 train/images/: Contains the images used for training the model 📷
 train/labels/: Contains the corresponding annotation files in YOLO format 🏷️
 val/images/: Contains the images used for validation ✅
